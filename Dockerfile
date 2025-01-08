@@ -1,0 +1,1 @@
+FROM helloakhil/capstone-app:latest
